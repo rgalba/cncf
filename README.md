@@ -45,8 +45,7 @@ Projects increase their maturity by demonstrating their sustainability to CNCFâ€
 
 ## Landscape
 
-Interactive landspace:
-![landscape](https://landscape.cncf.io)
+[Interactive landspace:](https://landscape.cncf.io)
 
 #### Cloud native trail map
 
