@@ -32,6 +32,8 @@ Cloud native technologies enable software developers to build great products fas
 
 Maturity Levels
 
+![maturity level](https://www.cncf.io/wp-content/uploads/2018/12/graphic-chasm-3-02.svg)
+
 CNCF projects have a maturity level of (compared to the Chasm diagram):
 
 - `sandbox`: the Innovators
