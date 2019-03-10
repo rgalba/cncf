@@ -70,7 +70,7 @@ It would be possible to use hyperledger?
 
 
 references
-https://www.cncf.io/
-https://en.wikipedia.org/wiki/Linux_Foundation#Cloud_Native_Computing_Foundation
+- https://www.cncf.io/
+- https://en.wikipedia.org/wiki/Linux_Foundation#Cloud_Native_Computing_Foundation
 
 
