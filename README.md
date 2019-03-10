@@ -43,22 +43,29 @@ The maturity level is a signal by CNCF as to what sorts of enterprises should be
 
 Projects increase their maturity by demonstrating their sustainability to CNCF’s Technical Oversight Committee: that they have adoption, a healthy rate of changes, committers from multiple organizations, have adopted the CNCF Code of Conduct, and have achieved and maintained the Core Infrastructure Initiative Best Practices Badge.
 
-## Stack
+## Landscape
+
+Interactive landspace:
+![landscape](https://landscape.cncf.io)
+
+#### Cloud native trail map
+
+![trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
+
+#### CNCF Serverless Landscape
+
+
+![serverless landscape](https://landscape.cncf.io/images/serverless.png)
+
+### Stack
 
 Kubernetes (orchestration)
-
 Prometheus (monitoring)
-
 Envoy (service proxy)
-
 Core DNS (service discovery)
-
 CNI (networking API)
-
 Helm (package management)
-
 Rook (storage containerized)
-
 
 ## Demonstration
 
@@ -71,6 +78,7 @@ It would be possible to use hyperledger?
 
 references
 - https://www.cncf.io/
+- https://landscape.cncf.io
 - https://en.wikipedia.org/wiki/Linux_Foundation#Cloud_Native_Computing_Foundation
 
 
